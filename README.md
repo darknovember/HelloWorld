@@ -1,2 +1,3 @@
 # HelloWorld
-Test for github
+Hey everyone
+I'm learning to code Swift.
